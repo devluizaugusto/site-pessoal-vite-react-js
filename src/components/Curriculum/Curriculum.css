@@ -1,0 +1,14 @@
+section {
+    margin: 50px;
+    padding: 50px;
+    color: #515F69;
+    border-radius: 25px;
+    background-color: #BFCDD9;
+}
+
+@media only screen and (max-width: 400px) {
+    section {
+        margin: 15px;
+        padding: 15px;
+    }
+}
